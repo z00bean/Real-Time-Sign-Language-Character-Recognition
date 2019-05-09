@@ -6,8 +6,12 @@ Project report: https://github.com/z00bean/uml-dl-project/blob/master/Report-Han
 Slides: https://github.com/z00bean/uml-dl-project/blob/master/Presentation-FINAL-Zubin.pdf
 
 opencv-python must be installed.
-To run: python3 main.py
+To run: 
+
+    $python3 main.py
+
 Some parameters which can be configured are:
+
     --scorethreshold (default is 0.5)
     --width (default is 320)
     --height (default is 180)
