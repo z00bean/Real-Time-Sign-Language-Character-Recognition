@@ -1,4 +1,5 @@
-# main.py
+# Needs CV2
+# main.py 
 from utils import detector_utils as detector_utils
 import cv2
 import tensorflow as tf
