@@ -1,4 +1,6 @@
 # Needs CV2
+# conda install -c conda-forge opencv 
+#To do: make requirement script for env creation and installations.
 from utils import detector_utils as detector_utils
 import cv2
 import tensorflow as tf
