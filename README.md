@@ -21,3 +21,4 @@ Datasets are not in this repository. So, they have to be downloaded before retra
 (download_egoHands_dataset_clean.py script downloads and preprocesses the Egohand dataset. The signlanguage dataset has to be downloaded from here.)
 
 MobileNetSSDv1 (Tensorflow model zoo) is used for detecting the hands from images, and a simple 2 layer CNN with max-pooling is used to detect the signs. Links of libraries and tutorials are given in the report.
+
