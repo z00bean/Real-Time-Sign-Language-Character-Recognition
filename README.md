@@ -6,7 +6,7 @@ Project report: https://github.com/z00bean/uml-dl-project/blob/master/Report-Han
 Slides: https://github.com/z00bean/uml-dl-project/blob/master/Presentation-FINAL-Zubin.pdf
 
 opencv-python must be installed.
-
+ 
 To run: 
 
     $python3 main.py
