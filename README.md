@@ -24,7 +24,7 @@ Datasets are not in this repository. So, they have to be downloaded before retra
 MobileNetSSDv1 (Tensorflow model zoo) is used for detecting the hands from images, and a simple 2 layer CNN with max-pooling is used to detect the signs. Links of libraries and tutorials are given in the report.
 
 ![Screenshot 1]
-(./scrshot1.png)
+(scrshot1.png)
 
 ![Screenshot 2]
-(./scrshot2.png)
+(scrshot2.png?raw=true "Title")
