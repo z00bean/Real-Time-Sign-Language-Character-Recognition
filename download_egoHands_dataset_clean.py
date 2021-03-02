@@ -13,13 +13,11 @@ import zipfile
 
 import csv
 
-
 def save_csv(csv_path, csv_content):
     with open(csv_path, 'w') as csvfile:
         wr = csv.writer(csvfile)
         for i in range(len(csv_content)):
             wr.writerow(csv_content[i])
-
 
 def get_bbox_visualize(base_path, dir):
     image_path_array = []
@@ -137,6 +135,7 @@ def generate_label_files(image_dir):
                   dir + "/" + dir + "_labels.csv")
 
 
+            
 # Split data, copy to train/test folders
 def split_data_test_eval_train(image_dir):
     create_directory("images")
