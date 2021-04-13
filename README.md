@@ -1,5 +1,4 @@
-# uml-dl-project
-Deep learning (COMP.5300) course project.
+# Real-time sign language character recognition 
 
 Project report: https://github.com/z00bean/uml-dl-project/blob/master/Report-Hand_Sign_Recognition.pdf
 
